@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Feature 1
+=======
+Feature 1
+
+
+Muokkausta
+
+Lisää muokkausta
+>>>>>>> b8adb1b (muokattu 2)
